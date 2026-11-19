@@ -1,0 +1,10 @@
+# keep this repo to README, assets, installers and latest.json only
+*.key
+*.pem
+secrets/
+.env
+.env.*
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
