@@ -2,20 +2,20 @@
   "manifest": {
     "channels": {
       "beta": {
-        "notes": "Disconnecting state, split DNS + DNS flush, Activity page (speed graph, timeline, history, export), health check, license & updates pages.",
-        "released": 1795084339,
-        "sha256": "83f34d2a7022478c481247387b51d21372ad58ad2574f82a2fa504193f868c54",
-        "size": 31557055,
-        "url": "https://github.com/R0LL0/ipsec-lite-releases/releases/download/v2.0.1/IPsecLite-Setup-2.0.1.exe",
-        "version": "2.0.1"
+        "notes": "\u2022 Update alerts: Home banner (What's new / Install now / Later), badge on Updates and the tray icon, one notification per version, tray install item\n\u2022 Keeps working while updating: background download and verification while connected\n\u2022 \"Install when I disconnect\", or \"Install now\" which reconnects your profile automatically afterwards\n\u2022 Safe upgrades: a failed install keeps the current version, with a notice and Retry\n\u2022 Checks at start and every 6 hours",
+        "released": 1795085638,
+        "sha256": "1805cec0f9aaaa907b5b1266c25add4572589cc39866263ab97dc0f4ac1e366b",
+        "size": 31568347,
+        "url": "https://github.com/R0LL0/ipsec-lite-releases/releases/download/v2.0.2/IPsecLite-Setup-2.0.2.exe",
+        "version": "2.0.2"
       }
     },
     "kill_switch": false,
     "min_supported": "2.0.1",
     "product": "ipsec-lite",
-    "published": 1795084339,
+    "published": 1795085638,
     "revoked": [],
     "schema": 1
   },
-  "signature": "5bZP48c7QgZ1iEb86isVM8hC_JMGQ1GyAgZio7ckD9O9Z3G8QCuDGMkv08CdYMGic7Lla8Qfaggi8XjB1RXVBw"
+  "signature": "Q7TYq05vNUDHB-qHMI_bywaZGrq4bqaKJyY_Qki1ZBmOW-ZlPtsGQ-nwerWQKV-svYE8LLKHZM0osY6BuhI2DQ"
 }
