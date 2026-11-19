@@ -1,0 +1,21 @@
+{
+  "manifest": {
+    "channels": {
+      "beta": {
+        "notes": "Disconnecting state, split DNS + DNS flush, Activity page (speed graph, timeline, history, export), health check, license & updates pages.",
+        "released": 1795084339,
+        "sha256": "83f34d2a7022478c481247387b51d21372ad58ad2574f82a2fa504193f868c54",
+        "size": 31557055,
+        "url": "https://github.com/R0LL0/ipsec-lite-releases/releases/download/v2.0.1/IPsecLite-Setup-2.0.1.exe",
+        "version": "2.0.1"
+      }
+    },
+    "kill_switch": false,
+    "min_supported": "2.0.1",
+    "product": "ipsec-lite",
+    "published": 1795084339,
+    "revoked": [],
+    "schema": 1
+  },
+  "signature": "5bZP48c7QgZ1iEb86isVM8hC_JMGQ1GyAgZio7ckD9O9Z3G8QCuDGMkv08CdYMGic7Lla8Qfaggi8XjB1RXVBw"
+}
