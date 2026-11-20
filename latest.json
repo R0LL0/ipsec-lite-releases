@@ -2,20 +2,20 @@
   "manifest": {
     "channels": {
       "beta": {
-        "notes": "\u2022 Update alerts: Home banner (What's new / Install now / Later), badge on Updates and the tray icon, one notification per version, tray install item\n\u2022 Keeps working while updating: background download and verification while connected\n\u2022 \"Install when I disconnect\", or \"Install now\" which reconnects your profile automatically afterwards\n\u2022 Safe upgrades: a failed install keeps the current version, with a notice and Retry\n\u2022 Checks at start and every 6 hours",
-        "released": 1795085638,
-        "sha256": "1805cec0f9aaaa907b5b1266c25add4572589cc39866263ab97dc0f4ac1e366b",
-        "size": 31568347,
-        "url": "https://github.com/R0LL0/ipsec-lite-releases/releases/download/v2.0.2/IPsecLite-Setup-2.0.2.exe",
-        "version": "2.0.2"
+        "notes": "\u2022 Import from FortiClient: reads your existing FortiClient IPsec connection (gateway, Local ID, username, proposals, DH, lifetimes, PFS, networks)\n\u2022 Pick a connection, review it, type the pre-shared key and password once (FortiClient keeps them encrypted)\n\u2022 Import\u2026 also accepts FortiClient XML/backup files\n\u2022 Clear warnings for settings that can't be carried over; nothing in FortiClient is changed",
+        "released": 1795157081,
+        "sha256": "766a4ec66b06cf7e23999d42071238aae8f9e941078fc4e117eda20d17d0a95f",
+        "size": 31668541,
+        "url": "https://github.com/R0LL0/ipsec-lite-releases/releases/download/v2.0.3/IPsecLite-Setup-2.0.3.exe",
+        "version": "2.0.3"
       }
     },
     "kill_switch": false,
     "min_supported": "2.0.1",
     "product": "ipsec-lite",
-    "published": 1795085638,
+    "published": 1795157081,
     "revoked": [],
     "schema": 1
   },
-  "signature": "Q7TYq05vNUDHB-qHMI_bywaZGrq4bqaKJyY_Qki1ZBmOW-ZlPtsGQ-nwerWQKV-svYE8LLKHZM0osY6BuhI2DQ"
+  "signature": "a0ECzOn2_LOkVYOQKIV8YUBInq1KMPYJp-7Uab7UzQUto0_wFj4OQa4LmZPIsfUwfd-79MW6WhjVhWHk5L1cDA"
 }
